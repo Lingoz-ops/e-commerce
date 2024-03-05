@@ -41,7 +41,7 @@ function DashboardProducts() {
             <div key={product.id} className="productItem">
               <p>Name: {product.name}</p>
               <p>Description: {product.description}</p>
-              <p>Price: ${product.price}</p>
+              <p>Price: R{product.price}</p>
             </div>
           ))}
         </div>
