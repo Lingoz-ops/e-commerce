@@ -15,3 +15,13 @@
 /.vs/VSWorkspaceState.json
 /src/Ecommerce.Api/Services/obj
 /src/Ecommerce.Api/Ecommerce.DataAccess/obj
+/src/Ecommerce.Api/.vs/Ecommerce.Api/DesignTimeBuild
+/.vs/e-commerce/v17
+/src/Ecommerce.Api/Ecommerce.DataAccess/bin/Debug/netstandard2.1
+/src/Ecommerce.Api/Services/bin/Debug/netstandard2.1
+/src/Ecommerce.Api/Ecommerce.Models/bin/Debug/net7.0
+/src/Ecommerce.Api/Ecommerce.Models/obj/Debug/net7.0/refint
+/src/Ecommerce.Api/Ecommerce.Models/obj/Debug/net7.0/ref
+/src/Ecommerce.Api/Ecommerce.Models/obj
+/src/Ecommerce.Api/obj
+/src/Ecommerce.Api/Services/bin/Debug/net7.0
